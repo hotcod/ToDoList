@@ -1,0 +1,5 @@
+rootProject.name = "ToDoList"
+include ':app'
+include ':app:learn'
+include ':learn'
+include ':learnmaintheme'

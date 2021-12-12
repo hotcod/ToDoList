@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alldi</string>
+    <string name="background_color_en">background color :</string>
+    <string name="text_color_en">text color :</string>
+    <string name="text_size_en">text size :</string>
+    <string name="text_size_default">16</string>
+    <string name="record_name">record name</string>
+    <string name="main_text">body</string>
+    <string name="click_delete_cm">delete</string>
+    <string name="max_characters">the maximum number of characters has been reached</string>
+</resources>
